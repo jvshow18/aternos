@@ -1,0 +1,6 @@
+{
+	"ip":"sminecraft.aternos.me",
+	"port": "25565",
+	"name": "servidor",
+	"auto-night-skip":"true"
+}
